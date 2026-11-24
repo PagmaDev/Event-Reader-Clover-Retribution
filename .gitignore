@@ -1,0 +1,15 @@
+# Segredos
+.env
+*.env
+!.env.example
+
+# Capturas de tela (mostram nomes de outros jogadores)
+*.png
+*.jpg
+
+# Python / editor
+__pycache__/
+*.pyc
+venv/
+.venv/
+.vscode/
